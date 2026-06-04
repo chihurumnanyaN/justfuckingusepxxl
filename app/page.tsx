@@ -157,7 +157,7 @@ export default function Home() {
             className="w-full h-auto"
           />
           <p className="text-xs text-[#555] text-center py-2 font-mono">
-            Trusted by the fastest growing startups. Features that matter.
+            Ship straight and fast. Features that matter.
           </p>
         </div>
 
